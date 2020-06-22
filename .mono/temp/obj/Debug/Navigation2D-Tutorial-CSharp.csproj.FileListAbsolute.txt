@@ -1,6 +1,0 @@
-/home/dominik/GodotProjects/Navigation2D-Completed-CSharp/.mono/temp/bin/Debug/Navigation2D-Tutorial-CSharp.dll
-/home/dominik/GodotProjects/Navigation2D-Completed-CSharp/.mono/temp/bin/Debug/Navigation2D-Tutorial-CSharp.pdb
-/home/dominik/GodotProjects/Navigation2D-Completed-CSharp/.mono/temp/obj/Debug/Navigation2D-Tutorial-CSharp.csprojAssemblyReference.cache
-/home/dominik/GodotProjects/Navigation2D-Completed-CSharp/.mono/temp/obj/Debug/Navigation2D-Tutorial-CSharp.csproj.CoreCompileInputs.cache
-/home/dominik/GodotProjects/Navigation2D-Completed-CSharp/.mono/temp/obj/Debug/Navigation2D-Tutorial-CSharp.dll
-/home/dominik/GodotProjects/Navigation2D-Completed-CSharp/.mono/temp/obj/Debug/Navigation2D-Tutorial-CSharp.pdb
